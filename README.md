@@ -1,6 +1,4 @@
-Certainly! Here's a template for a GitHub README file for your review microservice:
 
----
 
 # Review Microservice
 
